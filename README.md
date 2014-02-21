@@ -23,6 +23,7 @@
 ### 得分规则
 根据赌的大小,以下由X来代表倍数。
 - 情况1: 庄家2人
+
 First Header  | Second Header
 ------------- | -------------
 Content Cell  | Content Cell
