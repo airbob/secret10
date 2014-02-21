@@ -23,6 +23,11 @@
 ### 得分规则
 根据赌的大小,以下由X来代表倍数。
 - 情况1: 庄家2人
+First Header  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
+
 - 情况2: 庄家1人 （扒起)
 - 情况2: 庄家1人 （包牌)
 
